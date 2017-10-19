@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=b5UjDaWyUB8&list=PLqrUy7kON1mc7U60YUaN3ZR9EHlh9f
 
 This example is taken from above link tutorial
 
+git config --global user.email "xxxx@xxx.com"
+git config --global user.name "*******"
+
 
 1. To create ReactJS app
 npm init
@@ -22,5 +25,7 @@ npm init
 
 6. npm i -S react-router-dom
 
-7. To run the app 
+7. npm install
+
+8. To run the app 
     npm run start or npm start
